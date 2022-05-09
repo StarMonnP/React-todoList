@@ -2,7 +2,7 @@
 This is a very simple todo list app with a random score progress bar to give you some  
 motivation during work.
 
-## technologies
+## technology
 React is the only tech used in this project(with a little react-bootstrap)
 
 ## installation 
