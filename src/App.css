@@ -1,0 +1,52 @@
+.App {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(109, 218, 178);
+}
+
+.div_1 {
+  margin: 50px 75px 50px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.bar {
+  width: 500px;
+}
+
+.Btn_pt_rs {
+  margin: 20px 75px 25px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.inputField {
+  font-size: 20px;
+}
+
+.Btn_ts_sbm {
+  margin: 20px 75px 25px;
+}
+
+.List {
+  width: 450px;
+  font-size: 25px;
+
+}
+
+.div_card_body_outer {
+  align-items: left;
+  display: flex;
+  flex-direction: row;
+}
+
+.div_card_body_1 {
+  width: 300px;
+}
+
+.div_body_2 {
+  align-items: right;
+}
